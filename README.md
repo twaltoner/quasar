@@ -12,6 +12,8 @@
 
 [![UI Tests](https://github.com/quasarframework/quasar/actions/workflows/tests-on-pr.yml/badge.svg?branch=dev)](https://github.com/quasarframework/quasar/actions/workflows/tests-on-pr.yml)
 
+
+
 Please submit a PR to https://github.com/quasarframework/quasar-awesome with your website/app/Quasar tutorial/video etc. Thank you!
 
 ## Supporting Quasar
